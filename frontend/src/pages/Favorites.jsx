@@ -58,7 +58,7 @@ const QuickActionsSection = () => (
       </div>
       <div className="flex-1">
         <img
-          src="/src/assets/images/shopping.jpg"
+          src="/shopping.jpg"
           alt="Sale"
           className="object-cover w-full h-full"
         />

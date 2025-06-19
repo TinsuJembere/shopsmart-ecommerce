@@ -55,7 +55,7 @@ function RegisterPage() {
       {/* Left Side */}
       <div className="relative w-1/2 bg-gray-100 hidden md:flex items-center justify-center overflow-hidden">
         <img
-          src="src/assets/images/registerbg.jpg"
+          src="/registerbg.jpg"
           alt="Working Online"
           className="absolute inset-0 w-full h-full object-cover"
         />

@@ -82,7 +82,7 @@ function Navbar() {
             <>
               <Link to="/profile" className="cursor-pointer">
                 <img
-                  src={avatar || "/assets/images/avatar.avif"} 
+                  src={avatar || "/avatar.avif"} 
                   alt="Profile"
                   className="w-10 h-10 rounded-full border-2 border-gray-300 object-cover"
                 />

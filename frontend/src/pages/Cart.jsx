@@ -110,7 +110,7 @@ const ProceedToCheckout = () => (
       {/* Right Image Section */}
       <div className="flex-1">
         <img
-          src="src/assets/images/girls.jpg"
+          src="/girls.jpg"
           alt="Sale"
           className="object-cover w-full h-full"
         />

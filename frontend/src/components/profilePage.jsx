@@ -109,7 +109,7 @@ function ProfilePage() {
         <div className="flex items-center space-x-4 p-2">
           <div className="relative">
             <img
-              src={avatar || "src/assets/images/avatar.avif"}
+              src={avatar || "/avatar.avif"}
               alt="Avatar"
               className="w-14 h-14 rounded-full object-cover"
             />

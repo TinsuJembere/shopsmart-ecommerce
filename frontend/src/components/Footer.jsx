@@ -38,7 +38,7 @@ const Footer = () => {
         <div className="flex flex-col gap-4 items-start md:items-start">
           <div className="flex items-center gap-2 text-xl font-bold">
             <img
-              src="src/assets/images/newslater.png"
+              src="/newslater.png"
               alt=""
               className="w-6 h-6"
             />
