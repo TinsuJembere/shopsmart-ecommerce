@@ -10,7 +10,7 @@ function Home() {
   return (
     <div>
       <Navbar />
-      <div className="bg-[url('src/assets/images/homeBg.jpg')] flex flex-col bg-cover bg-center h-100 w-full items-center justify-center">
+      <div className="bg-[url('/homeBg.jpg')] flex flex-col bg-cover bg-center h-100 w-full items-center justify-center">
         <h1 className="text-white text-7xl font-semibold font-sans pb-5">
           Discover The Best Deals
         </h1>
