@@ -18,7 +18,7 @@ const PromoBanner = () => {
         {/* Right Image Section */}
         <div className="flex-1">
           <img
-            src="src/assets/images/sale-banner.jpg" // Replace with your actual image path
+            src="sale-banner.jpg" // Replace with your actual image path
             alt="Sale"
             className="object-cover w-full h-full"
           />
